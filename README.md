@@ -64,7 +64,7 @@
 pvlib-python is a community-developed toolbox that provides a set of
 functions and classes for simulating the performance of photovoltaic
 energy systems and accomplishing related tasks. The core mission of pvlib-python is to provide open,
-reliable, interoperable, and thoroughly-tested implementations of PV system models for researchers, engineers, and analysts working in the solar energy field.
+reliable, interoperable, and thoroughly-tested implementations of PV system models for researchers, engineers, and analysts working in the solar energy field. Our goal is to make photovoltaic modeling accessible and reproducible for everyone.
 
 ## Documentation
 
@@ -88,7 +88,7 @@ Please see the [Installation page](https://pvlib-python.readthedocs.io/en/stable
 
 ## Contributing
 
-We welcome your help to make pvlib-python an even better tool!
+We welcome your help to make pvlib-python an even better tool! Whether you're fixing bugs, adding new features, improving documentation, or sharing examples, your contributions are valuable to our community.
 Please see the [Contributing page](https://pvlib-python.readthedocs.io/en/stable/contributing/index.html) for more on how you can contribute.
 The long-term success of pvlib-python depends on substantial community support and involvement.
 
@@ -134,9 +134,9 @@ The [pvlib-python google group](https://groups.google.com/forum/#!forum/pvlib-py
 is used for discussing various topics of interest to the pvlib-python
 community. We also make new version announcements on the google group.
 
-If you suspect that you may have discovered a bug or if you'd like to
-suggest an enhancement or new feature for pvlib, please create an issue on our
-[GitHub issues page](https://github.com/pvlib/pvlib-python/issues).
+If you suspect that you may have discovered a bug, would like to
+suggest an enhancement, or propose a new feature for pvlib, please create an issue on our
+[GitHub issues page](https://github.com/pvlib/pvlib-python/issues). Be sure to include relevant details that will help maintainers understand and address your request.
 
 ## License
 
