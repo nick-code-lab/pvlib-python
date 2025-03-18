@@ -1,6 +1,6 @@
 # pvlib-python
 
-<img src="docs/sphinx/source/_images/pvlib_logo_horiz.png" width="600">
+<img src="docs/sphinx/source/_images/pvlib_logo_horiz.png" width="600" alt="pvlib-python logo">
 
 <table>
 <tr>
@@ -68,8 +68,8 @@ reliable, interoperable, and thoroughly-tested implementations of PV system mode
 
 ## Documentation
 
-Full documentation can be found at [readthedocs](https://pvlib-python.readthedocs.io/en/stable/),
-including an [FAQ](https://pvlib-python.readthedocs.io/en/stable/user_guide/faq.html) page.
+Full documentation can be found at [pvlib-python ReadTheDocs](https://pvlib-python.readthedocs.io/en/stable/),
+including a comprehensive [Frequently Asked Questions](https://pvlib-python.readthedocs.io/en/stable/user_guide/faq.html) page.
 
 ## Installation
 
@@ -89,7 +89,15 @@ Please see the [Installation page](https://pvlib-python.readthedocs.io/en/stable
 ## Contributing
 
 We welcome your help to make pvlib-python an even better tool! Whether you're fixing bugs, adding new features, improving documentation, or sharing examples, your contributions are valuable to our community.
-Please see the [Contributing page](https://pvlib-python.readthedocs.io/en/stable/contributing/index.html) for more on how you can contribute.
+
+Please see the [Contributing page](https://pvlib-python.readthedocs.io/en/stable/contributing/index.html) for more on how you can contribute. We welcome contributions of all kinds, including:
+
+- Code improvements and bug fixes
+- Documentation enhancements
+- New models and features
+- Example notebooks and tutorials
+- Testing improvements
+
 The long-term success of pvlib-python depends on substantial community support and involvement.
 
 ## Citing
@@ -122,7 +130,7 @@ use pvlib-python in a published work, please cite:
 If you use pvlib-python in a commercial or publicly-available application, please
 consider displaying one of the "powered by pvlib" logos shown below:
 
-<img src="docs/sphinx/source/_images/pvlib_powered_logo_vert.png" width="300">&nbsp;&nbsp;&nbsp;<img src="docs/sphinx/source/_images/pvlib_powered_logo_horiz.png" width="300">
+<img src="docs/sphinx/source/_images/pvlib_powered_logo_vert.png" width="300" alt="Powered by pvlib vertical logo">&nbsp;&nbsp;&nbsp;<img src="docs/sphinx/source/_images/pvlib_powered_logo_horiz.png" width="300" alt="Powered by pvlib horizontal logo">
 
 ## Getting Support
 
@@ -136,11 +144,17 @@ community. We also make new version announcements on the google group.
 
 If you suspect that you may have discovered a bug, would like to
 suggest an enhancement, or propose a new feature for pvlib, please create an issue on our
-[GitHub issues page](https://github.com/pvlib/pvlib-python/issues). Be sure to include relevant details that will help maintainers understand and address your request.
+[GitHub issues page](https://github.com/pvlib/pvlib-python/issues). When creating an issue:
+
+- For bugs: Include a minimal code example that reproduces the problem
+- For enhancements: Describe the desired functionality and why it would be valuable
+- For new features: Outline the feature and its potential use cases
+
+Be sure to include relevant details that will help maintainers understand and address your request.
 
 ## License
 
-BSD 3-clause. See the [LICENSE file](https://github.com/pvlib/pvlib-python/blob/main/LICENSE) for more details.
+pvlib-python is released under the BSD 3-clause license, a permissive open source license that allows for commercial and private use with limited restrictions. See the [LICENSE file](https://github.com/pvlib/pvlib-python/blob/main/LICENSE) for complete details.
 
 ## History and Acknowledgement
 
